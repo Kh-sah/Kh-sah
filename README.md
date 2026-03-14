@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi there, I'm Khushi! 👋
 
-<!--
-**Kh-sah/Kh-sah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🙋‍♀️ About Me
+- 🎓 B.Tech Computer Science Engineering — 2nd Year
+- 🤖 Passionate about Artificial Intelligence & Machine Learning
+- 📊 Enjoy working with Data, Excel & Databases
+- 🌐 Frontend Developer — HTML, CSS, JavaScript
+- 🚀 Currently building AI projects and expanding my skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+- **Languages:** Python, HTML, CSS, JavaScript
+- **AI / ML:** Scikit-learn, Pandas, NumPy, Matplotlib
+- **Tools:** Excel, MySQL, VS Code, Flask, Git
+
+---
+
+## 🚀 Projects
+
+### 🗞️ VeriNews — AI Fake News Detection
+- Built using Logistic Regression & Naive Bayes
+- Achieved ~99% accuracy on 44,000+ news articles
+- Full stack — Python backend + HTML/CSS/JS frontend
+- Data visualization using Matplotlib
+
+---
+
+## 🌱 Currently Learning
+- Machine Learning Algorithms & Model Optimization
+- Advanced SQL & Database Design
+- React.js for Frontend Development
+
+---
+
+## 📫 Connect with Me
+- 🐙 GitHub: https://github.com/Kh-sah
+- 💼 LinkedIn: https://www.linkedin.com/in/khushi-060680343
+
+---
+
+⭐ Thanks for visiting my profile!
