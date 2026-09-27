@@ -3,7 +3,7 @@
 ---
 
 ## 🙋‍♀️ About Me
-- 🎓 B.Tech Computer Science Engineering — 2nd Year
+- 🎓 B.Tech Computer Science Engineering — 3rd Year
 - 🤖 Passionate about Artificial Intelligence & Machine Learning
 - 📊 Enjoy working with Data, Excel & Databases
 - 🌐 Frontend Developer — HTML, CSS, JavaScript
